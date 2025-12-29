@@ -16,6 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
+---
+## 👋 Hi, I’m **Sabber Rahman (LIGHT)**
+
+💻 **Aspiring Full-Stack Web Developer**
+🌱 Currently building strong foundations in **frontend & backend development**
+🚀 Passionate about creating responsive, user-friendly web applications
+
+
+## 🧠 What I’ve Learned So Far
+
+* ✅ **HTML5** – semantic and accessible markup
+* 🎨 **CSS3** – layouts, Flexbox, basic animations
+* ⚙️ **JavaScript (ES6+)** – DOM manipulation, basic logic, events
+
+
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
@@ -30,19 +45,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 👋 Hi, I’m **Sabber Rahman (LIGHT)**
-
-💻 **Aspiring Full-Stack Web Developer**
-🌱 Currently building strong foundations in **frontend & backend development**
-🚀 Passionate about creating responsive, user-friendly web applications
-
----
-
-## 🧠 What I’ve Learned So Far
-
-* ✅ **HTML5** – semantic and accessible markup
-* 🎨 **CSS3** – layouts, Flexbox, basic animations
-* ⚙️ **JavaScript (ES6+)** – DOM manipulation, basic logic, events
 
 ---
 
