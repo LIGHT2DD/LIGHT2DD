@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 ---
 
 
----
-
 ## 🛠️ Skills & Tools
 
 * **Frontend:** HTML, CSS, JavaScript
